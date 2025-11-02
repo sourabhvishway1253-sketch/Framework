@@ -2,51 +2,51 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-15T21:38:05 IST" name="Default suite" finished-at="2025-10-15T21:39:06 IST" duration-ms="61147">
+  <suite started-at="2025-10-26T20:43:07 IST" name="Default suite" finished-at="2025-10-26T20:44:18 IST" duration-ms="71198">
     <groups>
-      <group name="sanityTest">
-        <method signature="Create_OrganizationTest.Create_OrganizationTest()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" name="Create_OrganizationTest" class="Organization.Create_OrganizationTest"/>
-      </group> <!-- sanityTest -->
+      <group name="regressionTest">
+        <method signature="Create_Campaign_With_ProductTest.Create_Campaign_With_ProductTest()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" name="Create_Campaign_With_ProductTest" class="Campaign.Create_Campaign_With_ProductTest"/>
+      </group> <!-- regressionTest -->
     </groups>
-    <test started-at="2025-10-15T21:38:05 IST" name="Default test" finished-at="2025-10-15T21:39:06 IST" duration-ms="61147">
-      <class name="Organization.Create_OrganizationTest">
-        <test-method is-config="true" signature="BS()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:38:05 IST" name="BS" finished-at="2025-10-15T21:38:05 IST" duration-ms="49" status="PASS">
+    <test started-at="2025-10-26T20:43:07 IST" name="Default test" finished-at="2025-10-26T20:44:18 IST" duration-ms="71198">
+      <class name="Campaign.Create_Campaign_With_ProductTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:43:07 IST" name="BS" finished-at="2025-10-26T20:43:07 IST" duration-ms="84" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BS -->
-        <test-method is-config="true" signature="BT()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:38:05 IST" name="BT" finished-at="2025-10-15T21:38:05 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="BT()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:43:07 IST" name="BT" finished-at="2025-10-26T20:43:07 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BT -->
-        <test-method is-config="true" signature="BC()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:38:05 IST" name="BC" finished-at="2025-10-15T21:38:12 IST" duration-ms="6795" status="PASS">
+        <test-method is-config="true" signature="BC()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:43:07 IST" name="BC" finished-at="2025-10-26T20:43:15 IST" duration-ms="8253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BC -->
-        <test-method is-config="true" signature="BM()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:38:12 IST" name="BM" finished-at="2025-10-15T21:38:19 IST" duration-ms="7231" status="PASS">
+        <test-method is-config="true" signature="BM()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:43:15 IST" name="BM" finished-at="2025-10-26T20:43:25 IST" duration-ms="9399" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BM -->
-        <test-method signature="Create_OrganizationTest()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:38:19 IST" name="Create_OrganizationTest" finished-at="2025-10-15T21:39:02 IST" duration-ms="43085" status="PASS">
+        <test-method signature="Create_Campaign_With_ProductTest()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:43:25 IST" name="Create_Campaign_With_ProductTest" finished-at="2025-10-26T20:44:14 IST" duration-ms="49671" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Create_OrganizationTest -->
-        <test-method is-config="true" signature="AM()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:39:02 IST" name="AM" finished-at="2025-10-15T21:39:05 IST" duration-ms="3091" status="PASS">
+        </test-method> <!-- Create_Campaign_With_ProductTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:44:14 IST" name="AM" finished-at="2025-10-26T20:44:17 IST" duration-ms="2772" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AM -->
-        <test-method is-config="true" signature="AC()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:39:06 IST" name="AC" finished-at="2025-10-15T21:39:06 IST" duration-ms="737" status="PASS">
+        <test-method is-config="true" signature="AC()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:44:17 IST" name="AC" finished-at="2025-10-26T20:44:18 IST" duration-ms="980" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AC -->
-        <test-method is-config="true" signature="AT()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:39:06 IST" name="AT" finished-at="2025-10-15T21:39:06 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="AT()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:44:18 IST" name="AT" finished-at="2025-10-26T20:44:18 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AT -->
-        <test-method is-config="true" signature="AS()[pri:0, instance:Organization.Create_OrganizationTest@8c3b9d]" started-at="2025-10-15T21:39:06 IST" name="AS" finished-at="2025-10-15T21:39:06 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="AS()[pri:0, instance:Campaign.Create_Campaign_With_ProductTest@7b02881e]" started-at="2025-10-26T20:44:18 IST" name="AS" finished-at="2025-10-26T20:44:18 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AS -->
-      </class> <!-- Organization.Create_OrganizationTest -->
+      </class> <!-- Campaign.Create_Campaign_With_ProductTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
